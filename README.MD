@@ -1,3 +1,8 @@
-Experiment 1: Sum of Two Numbers
+AIM: Display a Personalized Greeting Message
 
-Write a function add(a, b) that returns sum of two numbers.
+Input: 
+```Shibu```
+Output:
+```
+Hello, Shibu
+```
