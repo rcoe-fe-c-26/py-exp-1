@@ -4,6 +4,7 @@ AIM: Display a Personalized Greeting Message
 ```
 Enter Name: Shibu
 Enter Age: 33
+```
 
 **Output:**
 ```
